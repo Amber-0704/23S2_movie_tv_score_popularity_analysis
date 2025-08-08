@@ -12,12 +12,14 @@ This project is a data analysis exploring factors influencing movie and TV show 
 - Present findings in a structured report with visual insights
 
 ## File Structure
+```
 .
 ├── A2-dataset/
 │   ├── credits.csv        # Cast and crew information
 │   └── titles.csv         # Movie and TV metadata
 ├── Movie_TV_Analysis.ipynb  # Main analysis notebook
 └── Report.pdf               # Final report with findings
+```
 
 ## Usage
 1. Clone the repository:
